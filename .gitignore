@@ -1,0 +1,5 @@
+*
+!.gitignore
+!generate_wifi_qr.py
+!README.md
+!requirements.txt
